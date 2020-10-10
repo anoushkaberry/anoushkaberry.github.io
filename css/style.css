@@ -438,8 +438,8 @@
 .fh5co-books {
   position: relative;
   margin-bottom: -80px;
-  padding: 50px 0; 
-  background-image: url("../images/bake1.png"); 
+  padding: 50px 0;   
+  background-image: url("../images/bake1.jpg");
   background-size: cover;
   background-position: center; }
   .fh5co-books::after {
@@ -450,7 +450,7 @@
     width: 100%;
     height: 100%;
     background-color: #fff;
-    opacity: 0.8; }
+    opacity: 0.7; }
   .fh5co-books .universal-h2 {
     margin-bottom: 50px;
     padding-bottom: 20px; }
@@ -461,32 +461,6 @@
     .fh5co-books {
       margin-bottom: 60px; } }
 
-.fh5co-bake {
-  position: relative;
-  margin-bottom: -90px;
-  padding: 50px 0;
-  background-image: url("../images/bake1.png");
-  background-size: cover;
-  background-position: center; }
-  .fh5co-bake::after {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-color: #fff;
-    opacity: 0.85; }
-  .fh5co-bake .universal-h2 {
-    margin-bottom: 50px;
-    padding-bottom: 20px; }
-  .fh5co-bake .site-container {
-    position: relative;
-    z-index: 1; }
-  @media (max-width: 1250px) {
-    .fh5co-bake {
-      margin-bottom: 50px; } }
-    
 .books {
   display: flex;
   justify-content: space-between;
@@ -520,7 +494,7 @@
   position: relative;
   margin-bottom: -90px;
   padding: 50px 0;
-  background-image: url("../images/bake2.png");
+  background-image: url("../images/bake1.jpg");
   background-size: cover;
   background-position: center; }
   .fh5co-counter::after {

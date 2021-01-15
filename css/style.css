@@ -103,8 +103,7 @@
   overflow: hidden;
   position: relative; /* Set the navbar to fixed position */
   width: 50%; /* Full width */
-  top: 0;
-  font-size: 24px;
+  font-size: 22px;
 }
 
 /* Links inside the navbar */

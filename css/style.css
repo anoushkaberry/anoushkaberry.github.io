@@ -263,7 +263,8 @@
 }
 
 .brand-button-2 {
-  display: inline-block;
+  display: block;
+  text-align: center;
   padding: 10px 20px;
   font-size: 15px;
   text-transform: uppercase;
@@ -273,7 +274,7 @@
   transition: 0.3s ease; }
   .brand-button:hover, .brand-button:focus {
     color: #777; }
-    
+
 .fh5co-about-me {
   position: relative;
   margin: 193px 0 150px; 
